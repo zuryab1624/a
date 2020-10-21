@@ -32,3 +32,4 @@ def aa(ara):
 lss = aa(ara)
 seq=list(map(lambda x: x*x, lss))
 print(seq) 
+print(lss)
